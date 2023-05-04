@@ -1,1 +1,6 @@
+/__pycache__
 /venv
+.env
+consumer.py
+producer.py
+test.py
